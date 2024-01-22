@@ -200,5 +200,5 @@ hr{
   width: 25%;
 }
 .container-fluid {
-    margin-top: 64px;
+    margin-top: 64px !important;
     }

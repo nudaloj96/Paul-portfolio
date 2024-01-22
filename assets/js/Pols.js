@@ -1,4 +1,4 @@
-
+<script type="text/javascript">
       $(document).ready(function(){
         $(".navbar-nav li").click(function(){
           $(".navbar-nav li").removeClass("active");
@@ -15,4 +15,4 @@
 
       }
       );
-    
+    </script>

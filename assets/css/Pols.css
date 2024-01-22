@@ -199,3 +199,6 @@ a.anchor {
 hr{
   width: 25%;
 }
+.container-fluid {
+    margin-top: 64px;
+    }
